@@ -1,0 +1,5 @@
+C:\Users\HAI DANG LAPTOP\source\repos\De02-ThaiThiVanAnh\DE-02\obj\Debug\DE-02.csproj.AssemblyReference.cache
+C:\Users\HAI DANG LAPTOP\source\repos\De02-ThaiThiVanAnh\DE-02\obj\Debug\DE_02.frmsp.resources
+C:\Users\HAI DANG LAPTOP\source\repos\De02-ThaiThiVanAnh\DE-02\obj\Debug\DE_02.Properties.Resources.resources
+C:\Users\HAI DANG LAPTOP\source\repos\De02-ThaiThiVanAnh\DE-02\obj\Debug\DE-02.csproj.GenerateResource.cache
+C:\Users\HAI DANG LAPTOP\source\repos\De02-ThaiThiVanAnh\DE-02\obj\Debug\DE-02.csproj.CoreCompileInputs.cache
